@@ -8,6 +8,9 @@ namespace AtividadeMetodos01
 {
     internal class Exercicio08
     {
+
+        //Crie um método chamado CalcularFatorial que receba um inteiro positivo como parâmetro e retorne o fatorial desse número. 
+
         public static int CalcularFatorial(int numero)
         {
             if (numero < 0)

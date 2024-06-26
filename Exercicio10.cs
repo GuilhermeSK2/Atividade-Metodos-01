@@ -8,6 +8,8 @@ namespace AtividadeMetodos01
 {
     internal class Exercicio10
     {
+        //Crie um método chamado CalcularMedia que receba três números decimais como parâmetros e retorne a média desses números. 
+
         public static float CalcularMedia(float a, float b, float c)
         {
             return (a + b + c) / 3;

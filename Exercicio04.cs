@@ -8,6 +8,8 @@ namespace AtividadeMetodos01
 {
     internal class Exercicio04
     {
+        //Crie um método chamado Multiplicar que receba dois inteiros como parâmetros e retorne o produto desses dois números.
+
         public static int Multiplicar(int numero1, int numero2)
         {
             return numero1 * numero2;

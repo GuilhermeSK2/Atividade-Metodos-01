@@ -9,6 +9,8 @@ namespace AtividadeMetodos01
 {
     internal class Exercicio06
     {
+        //Crie um método chamado EhPar que receba um inteiro como parâmetro e retorne verdadeiro se o número for par e falso se for ímpar.
+
         public static bool EhPar(int numero)
         {
             if (numero % 2 == 0)

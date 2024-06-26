@@ -8,6 +8,8 @@ namespace AtividadeMetodos01
 {
     internal class Exercicio05
     {
+        //Crie um método chamado MaiorNumero que receba dois inteiros como parâmetros e retorne o maior entre eles.
+
         public static int MaiorNumero(int numero1, int numero2)
         {
             if (numero1 > numero2)
